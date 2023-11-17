@@ -1,0 +1,11 @@
+
+{
+    "posts": [
+      { "id": 1, "imageUrl": "url1", "caption": "Caption 1" },
+      { "id": 2, "imageUrl": "url2", "caption": "Caption 2" }
+      
+    ],
+    "comments": [],
+    "users": []
+  }
+  
